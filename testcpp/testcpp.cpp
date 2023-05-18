@@ -173,7 +173,10 @@ int main() {
 				break;
 			case 3:
 				traverse();
-				break
+				break;
+			case 4:
+				searchData();
+				break;
 			}
 		}
 	}
